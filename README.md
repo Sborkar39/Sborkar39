@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Siddharth Borkar
+- 👀 I’m interested in Data Analyzing
+- 🌱 I’m currently learning ML, SQL
+- 📫 Reach me at sid.borkar.39@gmail.com
